@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @eljn0
-- 👀 I’m interested in Web developing
+- 👋 Hi, I’m @eljn0 or you can say just Eljan.
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Back end
-- 💞️ I’m looking to get rtx 2060 vga
+- 💞️ I’m looking to get gtx 1650 gpu
 
 
 <!---
