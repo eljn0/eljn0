@@ -1,4 +1,4 @@
-### Hello World, I'm Eljan Guluyev:
+### Hello World, I'm Eljan Guluyev :
 
 <h1 align="center">
   <a target="_blank">
