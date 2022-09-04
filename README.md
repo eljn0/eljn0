@@ -17,10 +17,10 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working as a **Front-End Developer**
 - 🌱 I’m currently learning **Backend Development**
-- 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything [here](https://www.instagram.com/eljn_0/)! I am happy to help.
+- 🤔 I’m looking for **Internships**
+- 💬 Ask me about Anything [here](https://www.instagram.com/eljn_0/)! If you want to have online google meet, please look my [study schedule](https://docs.google.com/spreadsheets/d/1yzbB8nZhU_59Tl7nm7akfupOVTT37rS_xmhkCBE2o8I/edit?usp=sharing) before asking.
 - 😄 Pronouns : **He/Him/His**
 
 
